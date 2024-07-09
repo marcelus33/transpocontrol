@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "apps": [],
+    "defaults": {
+      "percentEncoded": false
+    },
+    "details": [
+      {
+        "appID": "",
+        "paths": [
+          "*"
+        ],
+        "appIDs": [
+          ""
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
