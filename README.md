@@ -1,5 +1,7 @@
 # TranspoCargo
 
+(project still in development)
+
 TranspoCargo is a comprehensive transportation management system designed to help trucking companies manage their internal movements, stock, billing, and travel control across the Mercosur region. 
 Built with Django and Django REST Framework on the backend, and React on the frontend, TranspoCargo offers a robust and user-friendly solution for transportation logistics.
 
